@@ -7,8 +7,8 @@ from keras.preprocessing.image import load_img
 import matplotlib.pyplot as plt
 
 
-DB_DIR = '/home/mona/Code/NailClassifier/Data/nailgun/'
-DIR = '/home/mona/Code/NailClassifier/ImgArr/'
+DB_DIR = '/home/sishel/Code/NailClassifier/Data/nailgun/'
+DIR = '/home/sishel/Code/NailClassifier/ImgArr/'
 IMG_H = 254
 IMG_W = 254
 IMG_CH = 1
